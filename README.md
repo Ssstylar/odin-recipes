@@ -10,3 +10,8 @@ Building ordered and unordered lists
 Linking pages together with relative links
 Adding images with meaningful alt text
 Organising project files and folders
+
+CREDITS
+1. Farhad Ibrahimzade
+https://images.unsplash.com/photo-1700760934249-93efbb574d23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D
+
