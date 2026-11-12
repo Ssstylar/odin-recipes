@@ -15,3 +15,5 @@ CREDITS
 1. Farhad Ibrahimzade
 https://images.unsplash.com/photo-1700760934249-93efbb574d23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D
 
+2. Chow Down
+https://chowdown858479102.wordpress.com/2020/06/15/kelewele-recipe-african-fried-plantain-banana/
